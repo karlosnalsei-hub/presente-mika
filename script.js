@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 /* TEMPO DE RELACIONAMENTO */
 
-const dataInicio = new Date("2025-09-22T00:00:00");
+const dataInicio = new Date("2025-08-22T00:21:22");
 
 function atualizarContador() {
   const agora = new Date();
